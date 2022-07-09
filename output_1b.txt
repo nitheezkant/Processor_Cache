@@ -1,0 +1,67 @@
+    Welcome to our cache demonstration!    
+===========================================
+***************************************************
+          Test 1 ,as part of question 1 b    
+---------------------------------------------------
+Analysis for a  4  way set-associative cache with a
+memory of  2048 kb and block size of  4 bytes in the
+trace file gcc.trace  is:
+
+Hits= 483896
+ 
+Misses= 31787
+
+Hit rate= 93.83594184799577 %
+
+***************************************************
+          Test 2 ,as part of question 1 b    
+---------------------------------------------------
+Analysis for a  4  way set-associative cache with a
+memory of  2048 kb and block size of  4 bytes in the
+trace file gzip.trace  is:
+
+Hits= 321671
+ 
+Misses= 159373
+
+Hit rate= 66.86935082861443 %
+
+***************************************************
+          Test 3 ,as part of question 1 b    
+---------------------------------------------------
+Analysis for a  4  way set-associative cache with a
+memory of  2048 kb and block size of  4 bytes in the
+trace file mcf.trace  is:
+
+Hits= 25830
+ 
+Misses= 701400
+
+Hit rate= 3.5518336702281257 %
+
+***************************************************
+          Test 4 ,as part of question 1 b    
+---------------------------------------------------
+Analysis for a  4  way set-associative cache with a
+memory of  2048 kb and block size of  4 bytes in the
+trace file swim.trace  is:
+
+Hits= 281187
+ 
+Misses= 22006
+
+Hit rate= 92.74191686483528 %
+
+***************************************************
+          Test 5 ,as part of question 1 b    
+---------------------------------------------------
+Analysis for a  4  way set-associative cache with a
+memory of  2048 kb and block size of  4 bytes in the
+trace file twolf.trace  is:
+
+Hits= 477429
+ 
+Misses= 5395
+
+Hit rate= 98.88261561148576 %
+

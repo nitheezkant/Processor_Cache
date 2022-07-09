@@ -1,0 +1,262 @@
+    Welcome to our cache demonstration!    
+===========================================
+***************************************************
+          Test 1 ,as part of question 1 c    
+---------------------------------------------------
+Analysis for a  4  way set-associative cache with a
+memory of  512 kb and block size of  1 bytes in the
+trace file gcc.trace  is:
+
+Hits= 480613
+ 
+Misses= 35070
+
+Hit rate= 93.19931042908142 %
+
+***************************************************
+          Test 2 ,as part of question 1 c    
+---------------------------------------------------
+Analysis for a  4  way set-associative cache with a
+memory of  512 kb and block size of  4 bytes in the
+trace file gcc.trace  is:
+
+Hits= 485839
+ 
+Misses= 29844
+
+Hit rate= 94.21272370816955 %
+
+***************************************************
+          Test 3 ,as part of question 1 c    
+---------------------------------------------------
+Analysis for a  4  way set-associative cache with a
+memory of  512 kb and block size of  8 bytes in the
+trace file gcc.trace  is:
+
+Hits= 501429
+ 
+Misses= 14254
+
+Hit rate= 97.23589879829275 %
+
+***************************************************
+          Test 4 ,as part of question 1 c    
+---------------------------------------------------
+Analysis for a  4  way set-associative cache with a
+memory of  512 kb and block size of  16 bytes in the
+trace file gcc.trace  is:
+
+Hits= 510008
+ 
+Misses= 5675
+
+Hit rate= 98.89951772697569 %
+
+***************************************************
+          Test 5 ,as part of question 1 c    
+---------------------------------------------------
+Analysis for a  4  way set-associative cache with a
+memory of  512 kb and block size of  1 bytes in the
+trace file gzip.trace  is:
+
+Hits= 321696
+ 
+Misses= 159348
+
+Hit rate= 66.87454785840796 %
+
+***************************************************
+          Test 6 ,as part of question 1 c    
+---------------------------------------------------
+Analysis for a  4  way set-associative cache with a
+memory of  512 kb and block size of  4 bytes in the
+trace file gzip.trace  is:
+
+Hits= 321742
+ 
+Misses= 159302
+
+Hit rate= 66.88411039322806 %
+
+***************************************************
+          Test 7 ,as part of question 1 c    
+---------------------------------------------------
+Analysis for a  4  way set-associative cache with a
+memory of  512 kb and block size of  8 bytes in the
+trace file gzip.trace  is:
+
+Hits= 321778
+ 
+Misses= 159266
+
+Hit rate= 66.89159411613075 %
+
+***************************************************
+          Test 8 ,as part of question 1 c    
+---------------------------------------------------
+Analysis for a  4  way set-associative cache with a
+memory of  512 kb and block size of  16 bytes in the
+trace file gzip.trace  is:
+
+Hits= 321826
+ 
+Misses= 159218
+
+Hit rate= 66.90157241333434 %
+
+***************************************************
+          Test 9 ,as part of question 1 c    
+---------------------------------------------------
+Analysis for a  4  way set-associative cache with a
+memory of  512 kb and block size of  1 bytes in the
+trace file mcf.trace  is:
+
+Hits= 28861
+ 
+Misses= 698369
+
+Hit rate= 3.9686206564635675 %
+
+***************************************************
+          Test 10 ,as part of question 1 c    
+---------------------------------------------------
+Analysis for a  4  way set-associative cache with a
+memory of  512 kb and block size of  4 bytes in the
+trace file mcf.trace  is:
+
+Hits= 36475
+ 
+Misses= 690755
+
+Hit rate= 5.015607166921057 %
+
+***************************************************
+          Test 11 ,as part of question 1 c    
+---------------------------------------------------
+Analysis for a  4  way set-associative cache with a
+memory of  512 kb and block size of  8 bytes in the
+trace file mcf.trace  is:
+
+Hits= 40800
+ 
+Misses= 686430
+
+Hit rate= 5.610329606864403 %
+
+***************************************************
+          Test 12 ,as part of question 1 c    
+---------------------------------------------------
+Analysis for a  4  way set-associative cache with a
+memory of  512 kb and block size of  16 bytes in the
+trace file mcf.trace  is:
+
+Hits= 386315
+ 
+Misses= 340915
+
+Hit rate= 53.12143338421132 %
+
+***************************************************
+          Test 13 ,as part of question 1 c    
+---------------------------------------------------
+Analysis for a  4  way set-associative cache with a
+memory of  512 kb and block size of  1 bytes in the
+trace file swim.trace  is:
+
+Hits= 280923
+ 
+Misses= 22270
+
+Hit rate= 92.65484361446339 %
+
+***************************************************
+          Test 14 ,as part of question 1 c    
+---------------------------------------------------
+Analysis for a  4  way set-associative cache with a
+memory of  512 kb and block size of  4 bytes in the
+trace file swim.trace  is:
+
+Hits= 283045
+ 
+Misses= 20148
+
+Hit rate= 93.35472784661914 %
+
+***************************************************
+          Test 15 ,as part of question 1 c    
+---------------------------------------------------
+Analysis for a  4  way set-associative cache with a
+memory of  512 kb and block size of  8 bytes in the
+trace file swim.trace  is:
+
+Hits= 287623
+ 
+Misses= 15570
+
+Hit rate= 94.8646571655678 %
+
+***************************************************
+          Test 16 ,as part of question 1 c    
+---------------------------------------------------
+Analysis for a  4  way set-associative cache with a
+memory of  512 kb and block size of  16 bytes in the
+trace file swim.trace  is:
+
+Hits= 296713
+ 
+Misses= 6480
+
+Hit rate= 97.86274749087215 %
+
+***************************************************
+          Test 17 ,as part of question 1 c    
+---------------------------------------------------
+Analysis for a  4  way set-associative cache with a
+memory of  512 kb and block size of  1 bytes in the
+trace file twolf.trace  is:
+
+Hits= 476464
+ 
+Misses= 6360
+
+Hit rate= 98.68274982188126 %
+
+***************************************************
+          Test 18 ,as part of question 1 c    
+---------------------------------------------------
+Analysis for a  4  way set-associative cache with a
+memory of  512 kb and block size of  4 bytes in the
+trace file twolf.trace  is:
+
+Hits= 478284
+ 
+Misses= 4540
+
+Hit rate= 99.05969877222341 %
+
+***************************************************
+          Test 19 ,as part of question 1 c    
+---------------------------------------------------
+Analysis for a  4  way set-associative cache with a
+memory of  512 kb and block size of  8 bytes in the
+trace file twolf.trace  is:
+
+Hits= 478700
+ 
+Misses= 4124
+
+Hit rate= 99.14585853230162 %
+
+***************************************************
+          Test 20 ,as part of question 1 c    
+---------------------------------------------------
+Analysis for a  4  way set-associative cache with a
+memory of  512 kb and block size of  16 bytes in the
+trace file twolf.trace  is:
+
+Hits= 480780
+ 
+Misses= 2044
+
+Hit rate= 99.57665733269265 %
+
